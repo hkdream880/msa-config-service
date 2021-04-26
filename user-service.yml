@@ -5,9 +5,9 @@ spring:
     username: sa
     password: '{cipher}AQAoggEa/fQ1yBONfQVPCLgFKZZFReJ9edkJSbnwxJnY01zTxdKXQPk252Drd3BgK1zZh2paTJXTZ+EP77kPIw5erlcrwanGJwRZxx9mqc8YWVb2TCLvo4R2B6b5BSCPxLeNwKuFSuQr3uUJD6t/4SzBtZvu475oarkRolU40AFJWg8HhIC+N1kHdQ7RfGK3RTCohS+q4KC0dqxvFCsJMraLi+nzzzY5Pa7v4Be1WRfSGvdgt0BIeUd+392WcLrivLb1xcGtpo+wLjju9AcTGTTCArSLySfU2uIL60+23UNabACRqBdPz6hCNo+c4k73X4dQBMmiVZSReiUSGgMx+K2hR5MW4otj9F8G16gQ0NrXzLpJG8sPnS++ggiGueQdDb4='
 
-token:
-  expiration_time: 864000000
-  secret: user_token_default
+#token:
+  #expiration_time: 864000000
+  #secret: user_token_default
 
-  gateway:
-    ip: 172.16.11.175
+  #gateway:
+    #ip: 172.16.11.175
